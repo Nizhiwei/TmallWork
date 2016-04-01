@@ -1,0 +1,13 @@
+<div style="height:1192px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;">
+        <img src="http://gdp.alicdn.com/imgextra/i3/1054693337/TB2nWqxeXXXXXaiXXXXXXXXXXXX_!!1054693337.jpg" usemap="#Map98" style="margin:0px;padding:0px:border:none;width:1920px;height:1192px;" border="0">
+        <map name="Map98">
+          <area shape="rect" coords="822,262,1095,613" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.248.vjP1nr&id=16137413388&rn=9aac46866f402f2696702f0ac7b72127&abbucket=14" target="_blank">
+          <area shape="rect" coords="1134,261,1457,739" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.273.vjP1nr&id=16183258708&rn=9aac46866f402f2696702f0ac7b72127&abbucket=14" target="_blank">
+          <area shape="rect" coords="464,643,787,1115" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.118.vjP1nr&id=16194397105&rn=9aac46866f402f2696702f0ac7b72127&abbucket=14" target="_blank">
+          <area shape="rect" coords="802,641,1119,1115" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.188.vjP1nr&id=17477863418&rn=9aac46866f402f2696702f0ac7b72127&abbucket=14" target="_blank">
+        </map>
+		</div>
+	</div>
+</div>

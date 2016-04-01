@@ -1,0 +1,35 @@
+<div style="padding:0;margin:0;width:990px;height:150px;background:url(//gdp.alicdn.com/imgextra/i4/2605944323/TB2T1OgipXXXXb1XpXXXXXXXXXX_!!2605944323.jpg);">
+	<div style="padding:0;margin:0;width:990px;height:120px;">
+		 <a href="#" style="padding:0;margin:0;width:464px;height:120px;display:block;float:left;" target="_blank"></a> <a href="#" style="padding:0;margin:0;width:280px;height:120px;display:block;float:left;" target="_blank"></a> <a href="#" style="padding:0;margin:0;width:246px;height:120px;display:block;float:left;" target="_blank"></a>
+	</div>
+	<div style="padding:0;margin:0;width:990px;height:30px;">
+		<ul style="padding:0;margin:0;width:880px;height:30px;line-height:30px;font-size:0;list-style:none;">
+			<li style="float:left;padding-right:16px;">
+				 <a style="padding:0;margin:0;width:55px;height:30px;display:block;" href="//aifeila.tmall.com/?spm=0.0.0.0.hNdAj5&amp;scene=taobao_shop#" target="_blank">首页</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;cursor:pointer;width:60px;height:30px;display:block;" href="//aifeila.tmall.com/category.htm?spm=a220o.1000855.w4010-12526962103.2.9HbcEy&amp;search=y&amp;scene=taobao_shop" target="_blank">所有产品</a>
+			</li>
+			<li style="float:left;padding-right:5px;">
+				 <a class="second" style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:70px;height:30px;display:block;" href="//aifeila.tmall.com/category.htm?orderType=&amp;viewType=grid&amp;keyword=%BB%A4%B7%F4&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" target="_blank">护肤</a>
+			</li>
+			<li style="float:left;padding-right:5px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:70px;height:30px;display:block;" href="//aifeila.tmall.com/category.htm?orderType=&amp;viewType=grid&amp;keyword=%B2%CA%D7%B1&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" target="_blank">彩妆</a>
+			</li>
+			<li style="float:left;padding-right:25px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:100px;height:30px;display:block;" href="//aifeila.tmall.com/p/rd113029.htm?scene=taobao_shop" target="_blank">开启魅力</a>
+			</li>
+			<li style="float:left;padding-right:25px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:85px;height:30px;display:block;" href="//aifeila.tmall.com/p/rd472791.htm?scene=taobao_shop" target="_blank">品牌故事</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:85px;height:30px;display:block;" href="//aifeila.tmall.com/p/rd846797.htm?scene=taobao_shop" target="_blank">官方只售</a>
+			</li>
+		</ul>
+	</div>
+	<div class="sn-simple-logo" style="border:none 0;padding:0;white-space:nowrap;color:#FFFFFF;left:818px;top:128px;height:14px;width:170px;z-index:2;">
+		<form action="//aifeila.tmall.com/category.htm?scene=taobao_shop" method="post" target="_blank" style="padding:0px;margin:0px;">
+			 <input name="keyword" value="卸妆" style="outline-width:0;outline-style:none;float:left;color:#D48E7B;line-height:14px;font-size:12px;width:150px;height:14px;background:transparent;border:none;" /> <input type="submit" style="outline-width:0;outline-style:none;float:left;background:transparent;width:20px;height:14px;cursor:pointer;border:none;text-indent:999px;overflow:hidden;" />&nbsp;
+		</form>
+	</div>
+</div>

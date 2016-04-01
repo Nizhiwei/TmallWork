@@ -1,0 +1,17 @@
+<div style="height:976px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:-30px;vertical-align: baseline;">
+                <div style="width:1920px;height:976px">
+        
+                <div style="float:left;width:1920px;height:279px;background:url(https://img.alicdn.com/imgextra/i4/1054693337/TB2lKr6eXXXXXX_XpXXXXXXXXXX_!!1054693337.jpg)"></div>
+                <div style="float:left;width:1920px;height:295px;background:url(https://img.alicdn.com/imgextra/i1/1054693337/TB26zzVeXXXXXbTXpXXXXXXXXXX_!!1054693337.jpg)"></div>
+                <div style="float:left;width:1920px;height:292px;background:url(https://img.alicdn.com/imgextra/i4/1054693337/TB2yWH1eXXXXXaYXpXXXXXXXXXX_!!1054693337.jpg)"></div>
+                <div style="float:left;width:1920px;height:110px;background:url(https://img.alicdn.com/imgextra/i1/1054693337/TB2ALT_eXXXXXXcXpXXXXXXXXXX_!!1054693337.jpg)"><a href="#" style="display:block;width:348px;height:110px;margin-left:787px"></a></div>
+        
+
+        
+
+         </div>
+</div>
+</div>
+</div>

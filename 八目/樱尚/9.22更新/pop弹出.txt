@@ -1,0 +1,44 @@
+
+<div style="height:429px;">
+    <div class="sn-simple-logo" style="padding:0px;left:50%;top:auto;">
+        <div class="sn-simple-logo" style="padding:0px;left:-960px;top:auto;">
+
+
+            <div style="margin:0px;padding:0px;border:none;width:1920px;height:429px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB2fJEkfpXXXXXSXpXXXXXXXXXX_!!1579854849.jpg)">
+
+
+                <div class="sn-simple-logo nial3" style="left: 955px;top:30px;background:url(https://img.alicdn.com/imgextra/i3/1579854849/TB2xBf_fpXXXXciXpXXXXXXXXXX_!!1579854849.jpg);width:450px;height:330px;" >
+                <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.nial3',
+          'align':{
+                  'node':'.nial3',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }">
+                    <div style="background:url(https://img.alicdn.com/imgextra/i3/1579854849/TB2xBf_fpXXXXciXpXXXXXXXXXX_!!1579854849.jpg);width:450px;height:330px;" ></div>
+
+                </div>
+                </div>
+
+                <div class="sn-simple-logo nial2" style="left: 955px;top:30px;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2fJEzfpXXXXaNXXXXXXXXXXXX_!!1579854849.jpg);width:390px;height:330px;" >
+                    <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.nial2',
+          'align':{
+                  'node':'.nial2',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }">
+                    <div style="background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2fJEzfpXXXXaNXXXXXXXXXXXX_!!1579854849.jpg);width:390px;height:330px;" ></div>
+
+                </div></div>
+                <div class="sn-simple-logo nial1" style="left: 955px;top:30px;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2UzoFfpXXXXXiXXXXXXXXXXXX_!!1579854849.jpg);width:330px;height:330px;" >
+</div>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>

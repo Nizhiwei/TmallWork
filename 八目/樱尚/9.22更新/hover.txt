@@ -1,0 +1,23 @@
+
+<div style="height:368px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;">
+<div style="margin:0px;padding:0px;border:none;width:1920px;height:368px;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2nEAxfpXXXXbyXXXXXXXXXXXX_!!1579854849.jpg)">
+<div class="niyu" style="padding-top:77px;margin-left:465px;width:1100px;height:360px">
+<div class="niyu1" style="float:left;width:220px;height:220px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB29VEyfpXXXXa8XXXXXXXXXXXX_!!1579854849.png);transition:all ease 1s"></div>
+<div class="niyu2" style="float:left;width:220px;height:220px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB2YxglfpXXXXXQXpXXXXXXXXXX_!!1579854849.png);margin-left:37px;transition:all ease 1s"></div>
+<div class="niyu3" style="float:left;width:220px;height:220px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB29VEyfpXXXXa8XXXXXXXXXXXX_!!1579854849.png);margin-left:37px;transition:all ease 1s"></div>
+<div class="niyu4" style="float:left;width:220px;height:220px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB29VEyfpXXXXa8XXXXXXXXXXXX_!!1579854849.png);margin-left:37px;transition:all ease 1s"></div>
+
+
+</div>
+
+
+
+
+
+</div>
+
+</div>
+</div>
+</div>

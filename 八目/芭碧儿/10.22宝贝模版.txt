@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<img src="https://img.alicdn.com/imgextra/i3/2171347552/TB2qH5tgpXXXXb.XpXXXXXXXXXX_!!2171347552.jpg" usemap="#Map">
+<map name="Map">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="51,16,250,290" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.e8TqQm&id=45697584166&skuId=92423715319">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="307,16,491,288" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44630283781&skuId=87106555341">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="564,16,746,291" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44620475574&skuId=99031820235">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="57,308,223,587" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44625927398&skuId=99061444824">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="287,336,501,585" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=42881035333&skuId=90570428219">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="567,329,736,584" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44707316951&skuId=82164333231">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="30,606,247,857" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44631395213&skuId=82208957712">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="300,603,490,857" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44705048493">
+  <area style="outline-width:0;outline-style:none;" target="_blank"  shape="rect" coords="556,606,747,856" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.JDim4W&id=44729975641">
+</map>
+
+</body>
+</html>

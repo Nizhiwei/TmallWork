@@ -1,0 +1,221 @@
+<div style="height:495px;">
+	<div class="sn-simple-logo" style="padding:0;left:50%;top:-30px;">
+		<div class="sn-simple-logo" style="padding:0;left:-960px;top:auto;">
+			<div class="sn-simple-logo" style="background:url(//gdp.alicdn.com/imgextra/i3/1579854849/TB2EPUOcpXXXXaUXXXXXXXXXXXX_!!1579854849.jpg);width:1920px;height:495px;">
+				<div class="sn-simple-logo b1" style="left:465px;top:0;height:200px;width:320px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+
+
+
+
+
+
+          &quot;trigger&quot;:&quot;.b1&quot;,
+
+
+
+
+
+
+
+
+          &quot;align&quot;:{
+
+
+
+
+
+
+
+
+                  &quot;node&quot;:&quot;.b1&quot;,
+
+
+
+
+
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:200px;width:320px;background:url(//gdp.alicdn.com/imgextra/i4/1579854849/TB2wckMcpXXXXb2XXXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+				<div class="sn-simple-logo b2" style="left:800px;top:0;height:200px;width:320px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+
+
+
+
+
+
+          &quot;trigger&quot;:&quot;.b2&quot;,
+
+
+
+
+
+
+
+
+          &quot;align&quot;:{
+
+
+
+
+
+
+
+
+                  &quot;node&quot;:&quot;.b2&quot;,
+
+
+
+
+
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:200px;width:320px;background:url(//gdp.alicdn.com/imgextra/i4/1579854849/TB2GVUJcpXXXXaKXpXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+				<div class="sn-simple-logo b3" style="left:1135px;top:0;height:200px;width:320px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+
+
+
+
+
+
+          &quot;trigger&quot;:&quot;.b3&quot;,
+
+
+
+
+
+
+
+
+          &quot;align&quot;:{
+
+
+
+
+
+
+
+
+                  &quot;node&quot;:&quot;.b3&quot;,
+
+
+
+
+
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:200px;width:320px;background:url(//gdp.alicdn.com/imgextra/i3/1579854849/TB2o2gJcpXXXXanXpXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

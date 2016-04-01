@@ -1,0 +1,30 @@
+<div style="height:750px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;">
+        
+<div style="width:1920px;height:750px;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2Kc91fXXXXXbhXXXXXXXXXXXX_!!1579854849.jpg);">
+
+<div class="J_TWidget" style="left:432px;top:228px;position: relative;width: 1056px;height:410px;overflow:hidden" data-widget-type="Carousel" 
+data-widget-config="{'easing':'easeBoth','effect':'scrollx','activeTriggerCls':'ni-act3','autoplay':false}"> 
+<div class="ks-switchable-content" style="position:relative;height:410px;padding:0px;border:none;width:1056px;">
+        <div  style="background:url(https://img.alicdn.com/imgextra/i3/1579854849/TB2QpqPfXXXXXXGXpXXXXXXXXXX_!!1579854849.jpg);width:1056px;height:410px;"></div>
+        <div  style="display: none;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2bBC4fXXXXXaGXXXXXXXXXXXX_!!1579854849.jpg);width:1056px;height:410px;"></div>
+    <div  style="display: none;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2f4uRfXXXXXXAXpXXXXXXXXXX_!!1579854849.jpg);width:1056px;height:410px;"></div>
+    <div  style="display: none;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2gsy6fXXXXXXHXXXXXXXXXXXX_!!1579854849.jpg);width:1056px;height:410px;"></div>   
+    </div>
+
+
+
+ <ul class="ks-switchable-nav  sn-simple-logo" style="position: absolute;top:376px;left:844px;border:none;z-index: 99;cursor: default;width:200px;height:20px;font-size:12px;font-family:宋体;float:left">
+        <li class="ni-act4 ni-act3" style="list-style:none;padding:0px;border:0;width: 40px;height: 20px;margin-right:10px;line-height:20px;text-align:center;cursor: pointer;float:left">眼霜</li>
+        <li class="ni-act4"  style="list-style:none;padding:0px;border:0;width: 40px;height: 20px;margin-right:10px;line-height:20px;text-align:center;cursor: pointer;float:left">亮肤水</li>
+        <li class="ni-act4"  style="list-style:none;padding:0px;border:0;width: 40px;height: 20px;margin-right:10px;line-height:20px;text-align:center;cursor: pointer;float:left">面膜</li>
+        <li class="ni-act4"  style="list-style:none;padding:0px;border:0;width: 40px;height: 20px;margin-right:10px;line-height:20px;text-align:center;cursor: pointer;float:left">隔离乳</li>
+</ul>
+
+</div>   
+</div>
+</div>
+</div>
+</div> 
+</div>

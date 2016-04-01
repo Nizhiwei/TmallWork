@@ -1,0 +1,45 @@
+.ni7xibtn{list-style:none;margin:0 50px 0 0;padding:0px;border:0;width: 170px;height:42px;cursor:pointer;transition:all ease 1s;float:left;}
+.ni7xiact{transform:translateY(8px)}
+
+
+<div style="height:748px;">
+	<div class="sn-simple-logo" style="padding:0px;left:50%;top:-7px;">
+		<div class="sn-simple-logo" style="padding:0px;left:-960px;top:-40px;">
+			<div style="width:1920px;height:740px;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2dg_MepXXXXagXXXXXXXXXXXX_!!1579854849.png);">
+				<div class="sn-simple-logo" style="width:990px;height:424px;left:464px;top:185px;">
+					<div class="J_TWidget" style="position:relative;width:990px;" data-widget-type="Tabs" data-widget-config="{&quot;activeTriggerCls&quot;:&quot;ni7xiact&quot;,&quot;effect&quot;:&quot;fade&quot;}">
+						<ul class="ks-switchable-nav sn-simple-logo" style="top:-7px;left:81px;border:none;z-index:99;cursor:default;width:990px;height:42px;">
+							<li class="ni7xiact ni7xibtn">
+								 <img src="https://img.alicdn.com/imgextra/i1/1579854849/TB2TIjDepXXXXcjXXXXXXXXXXXX_!!1579854849.png">
+							</li>
+                            	<li class=" ni7xibtn">
+								 <img src="https://img.alicdn.com/imgextra/i4/1579854849/TB2vKHsepXXXXaNXpXXXXXXXXXX_!!1579854849.png">
+							</li>
+                            	<li class=" ni7xibtn">
+								 <img src="https://img.alicdn.com/imgextra/i4/1579854849/TB2qrHHepXXXXbxXXXXXXXXXXXX_!!1579854849.png">
+							</li>
+                            	<li class=" ni7xibtn">
+								 <img src="https://img.alicdn.com/imgextra/i2/1579854849/TB2KYTxepXXXXXzXpXXXXXXXXXX_!!1579854849.png">
+							</li>							
+						</ul>
+						<div class="ks-switchable-content" style="position:relative;height:424px;padding:0px;border:none;width:959px;top:100px;">
+							<div style="background:url(https://img.alicdn.com/imgextra/i3/1579854849/TB2PrrpepXXXXbqXpXXXXXXXXXX_!!1579854849.png);width:959px;height:424px;">
+								<a href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w7256503-5643262923.1.3xQhai&id=18536914498&rn=ede707631188786dcb4af3a65b04335a&abbucket=18" target="_blank" style="width:959px;height:424px;display:block"></a>
+							</div>
+							<div style="display:none;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB2JLDRepXXXXXnXXXXXXXXXXXX_!!1579854849.png);width:959px;height:424px;">
+								<a href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w7256505-9614824707.2.3xQhai&id=35449788516&rn=2ecff8865192d4bd2bdac3f11770f046&abbucket=16" target="_blank" style="width:959px;height:424px;display:block"></a>
+							</div>
+							<div style="display:none;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2sX6zepXXXXXhXpXXXXXXXXXX_!!1579854849.png);width:959px;height:424px;">
+								<a href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w7256505-9615840377.2.3xQhai&id=19155659481&rn=162601f20fcd479349f08a3942885193&abbucket=16&scene=taobao_shop" target="_blank" style="width:959px;height:424px;display:block"></a>
+							</div>
+							<div style="display:none;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB22G2NepXXXXaoXXXXXXXXXXXX_!!1579854849.png);width:959px;height:424px;">
+								<a href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w7256505-9682518401.2.3xQhai&id=36631321814&rn=ca2fd8130b3ce1bb9a1c7d0eddf05b4f&abbucket=16" target="_blank" style="width:959px;height:424px;display:block"></a>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

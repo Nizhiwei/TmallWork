@@ -1,0 +1,6 @@
+<div style="height:40px;">
+    <div class="sn-simple-logo" style="padding:0px;left:50%;top:auto;vertical-align: baseline;">
+        <div class="sn-simple-logo" style="padding:0px;left:-960px;top:-10px;vertical-align: baseline;">
+            <div style="width: 1920px;height: 50px;background: black">
+            <marquee direction="left" scrollamount="8" bgcolor="black" style="font-size:24px;color:white;width: 990px;margin-left:465px;height: 50px;line-height: 50px">紧急通知：由于上合会议影响，12月11日-18日期间，郑州、桐乡地区大部分快递不再收发件，本店该地区订单将统一发顺丰，顺丰不到的地区免费转发其他能到的快递，给亲们造成不便敬请谅解，谢谢！</marquee></div>
+</div></div></div>

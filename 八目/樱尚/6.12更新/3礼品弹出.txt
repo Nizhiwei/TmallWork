@@ -1,0 +1,211 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<div style="height:321px;">
+	<div class="sn-simple-logo" style="padding:0;left:50%;top:-30px;">
+		<div class="sn-simple-logo" style="padding:0;left:-960px;top:auto;">
+			<div class="sn-simple-logo" style="background:url(http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2qy58dXXXXXb0XXXXXXXXXXXX_!!1579854849.jpg);width:1920px;height:321px;">
+				<div class="sn-simple-logo b1" style="left:502px;top:0;height:320px;width:290px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+          &quot;trigger&quot;:&quot;.b1&quot;,
+
+
+          &quot;align&quot;:{
+
+
+
+
+                  &quot;node&quot;:&quot;.b1&quot;,
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:320px;width:290px;background:url(http://img04.taobaocdn.com/imgextra/i4/1579854849/TB259TgdXXXXXaUXXXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+				<div class="sn-simple-logo b2" style="left:814px;top:0;height:320px;width:288px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+
+
+
+
+
+
+          &quot;trigger&quot;:&quot;.b2&quot;,
+
+
+
+
+
+
+
+
+          &quot;align&quot;:{
+
+
+
+
+
+
+
+
+                  &quot;node&quot;:&quot;.b2&quot;,
+
+
+
+
+
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:320px;width:288px;background:url(http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2jKzhdXXXXXaAXXXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+				<div class="sn-simple-logo b3" style="left:1126px;top:0;height:320px;width:289px;">
+					&nbsp;
+				</div>
+				<div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+
+
+
+
+
+
+
+
+          &quot;trigger&quot;:&quot;.b3&quot;,
+
+
+
+
+
+
+
+
+          &quot;align&quot;:{
+
+
+
+
+
+
+
+
+                  &quot;node&quot;:&quot;.b3&quot;,
+
+
+
+
+
+
+
+
+                  &quot;offset&quot;:[0,0],
+
+
+
+
+
+
+
+
+                  &quot;points&quot;:[&quot;cc&quot;,&quot;cc&quot;]
+
+
+
+
+
+
+
+
+                  }
+
+
+
+
+
+
+
+
+            }">
+					<div style="height:320px;width:289px;background:url(http://img04.taobaocdn.com/imgextra/i4/1579854849/TB2hVDjdXXXXXarXXXXXXXXXXXX_!!1579854849.jpg);">
+						&nbsp;
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

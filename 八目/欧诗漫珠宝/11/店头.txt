@@ -1,0 +1,11 @@
+﻿<div style="height:150px;width:990px;margin:0px;padding:0px;border:none;background:url(//gdp.alicdn.com/imgextra/i4/931623700/TB2CbhHgFXXXXbMXXXXXXXXXXXX_!!931623700.jpg);">
+<div class="sn-simple-logo" style="width:990px;height:120px;">
+	<a href="//favorite.taobao.com/popup/add_collection.htm?spm=a1z10.1-b.1997427721.9.Yja46d&amp;id=72930838&amp;itemid=72930838&amp;itemtype=0&amp;ownerid=7f6760555d6e5e97926e1922feea90ac&amp;scjjc=2&amp;scene=taobao_shop" target="_blank" style="display:block;float:left;width:325px;height:120px;"></a>
+    <a href="#" target="_blank" style="display:block;float:right;width:240px;height:120px;"></a>
+    </div>
+	<div class="sn-simple-logo" style="margin:0px;padding:0px;border:none;width:990px;height:30px;top:120px;left:0px;font-size:0">
+		 <a style="height:30px;width:108px;float:left;margin:0px;padding:0px;border:none;" href="#" target="_blank">双11</a>
+          <a style="height:30px;width:117px;float:left;margin-left:50px;padding:0px;border:none;" href="https://osmzb.tmall.com/search.htm?spm=a1z10.3-b.w4011-2888182809.1.ktzZJb" target="_blank">全部</a> <a style="height:30px;width:153px;float:left;margin:0px;padding:0px;border:none;" href="//osmzb.tmall.com/search.htm?spm=a1z10.1-b.w5001-2888200354.3.ilrJdq&amp;orderType=&amp;viewType=grid&amp;keyword=项链&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" target="_blank">项链</a> <a style="height:30px;width:117px;float:left;margin:0px;padding:0px;border:none;" href="//osmzb.tmall.com/search.htm?spm=a1z10.3-b.w5001-2888200354.4.b0EyWw&amp;orderType=&amp;viewType=grid&amp;keyword=耳饰&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" target="_blank">耳饰</a> <a style="height:30px;width:123px;float:left;margin-left:30px;padding:0px;border:none;" href="#shop12596731217" target="_blank">奢华</a> <a style="height:30px;width:124px;float:left;margin:0px;padding:0px;border:none;" href="https://osmzb.tmall.com/p/rd205634.htm?spm=a1z10.3-b.w5001-2888200354.8.6iU42B&scene=taobao_shop" target="_blank">更懂</a> 
+          <a style="height:30px;width:124px;float:left;margin-left:30px;padding:0px;border:none;" href="//favorite.taobao.com/popup/add_collection.htm?spm=a1z10.1-b.1997427721.9.tqdqUD&id=72930838&itemid=72930838&itemtype=0&ownerid=7f6760555d6e5e97926e1922feea90ac&scjjc=2" target="_blank">收藏</a> 
+	</div>
+</div>

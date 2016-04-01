@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<div>
+<img style="float:left" src="https://img.alicdn.com/imgextra/i3/931623700/TB2pUhDhXXXXXawXXXXXXXXXXXX_!!931623700.jpg">
+<img style="float:left"  src="https://img.alicdn.com/imgextra/i4/931623700/TB2y9RHhXXXXXXGXXXXXXXXXXXX_!!931623700.jpg">
+<img  style="float:left" src="https://img.alicdn.com/imgextra/i3/931623700/TB2qkNxhXXXXXbRXXXXXXXXXXXX_!!931623700.jpg">
+<img src="https://img.alicdn.com/imgextra/i3/931623700/TB2Nx0JhXXXXXXuXXXXXXXXXXXX_!!931623700.jpg" usemap="#Mapnmi"  style="float:left">
+<map name="Mapnmi">
+  <area  style="outline-width:0;outline-style:none;" target="_blank" shape="rect" coords="86,8,723,284" href="https://detail.tmall.com/item.htm?spm=0.0.0.0.n9ttUJ&id=41388947429&rn=454a42b50330702b5d1efb7dd471fe00&abbucket=14&scene=taobao_shop">
+</map>
+<img  style="float:left" src="https://img.alicdn.com/imgextra/i2/931623700/TB20bJqhXXXXXXbXpXXXXXXXXXX_!!931623700.jpg" usemap="#Map3ni"  /> <map name="Map3ni"> <area style="outline-width:0;outline-style:none;" target="_blank" coords="14,22,256,232" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596506745.4.DhscC0&amp;id=19711484991&amp;rn=b53b029823dfa481ada1baa5befbb210&amp;abbucket=8&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="266,19,517,230" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596625610.5.DhscC0&amp;id=16362461277&amp;rn=0c034834ea9db60766ec9cb97800ced5&amp;abbucket=8&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="532,23,776,233" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596625610.8.DhscC0&amp;id=20119890695&amp;rn=454a42b50330702b5d1efb7dd471fe00&amp;abbucket=14&amp;sku_properties=150778146:98639437&amp;scene=taobao_shop" /> </map>
+<img  style="float:left" src="https://img.alicdn.com/imgextra/i2/931623700/TB2kHFxhXXXXXcaXXXXXXXXXXXX_!!931623700.jpg" usemap="#Map4ni"  /> <map name="Map4ni"> <area style="outline-width:0;outline-style:none;" target="_blank" coords="12,13,260,208" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596506745.2.IuMO4J&amp;id=21391956489&amp;rn=454a42b50330702b5d1efb7dd471fe00&amp;abbucket=14&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="263,15,522,206" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596659485.4.IuMO4J&amp;id=21392184632&amp;rn=454a42b50330702b5d1efb7dd471fe00&amp;abbucket=14&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="531,10,775,205" href="//detail.tmall.com/item.htm?spm=a1z10.4-b.w5003-12596659485.11.IuMO4J&amp;id=23020708252&amp;rn=2bf5bb4ab70b37d200d9a2b25a9d72d1&amp;abbucket=8&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="42,226,207,262" href="//osmzb.tmall.com/p/rd714283.htm?spm=a1z10.4-b.w5001-2888200354.4.IuMO4J&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="230,219,410,262" href="//osmzb.tmall.com/search.htm?spm=a1z10.4-b.w5001-2888200354.5.o1QVS0&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="415,220,580,263" href="//osmzb.tmall.com/search.htm?spm=a1z10.3-b.w5001-2888200354.6.x6KCDW&amp;orderType=&amp;viewType=grid&amp;keyword=%CF%EE%C1%B4&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" /> <area style="outline-width:0;outline-style:none;" target="_blank" coords="596,220,755,260" href="//osmzb.tmall.com/search.htm?spm=a1z10.3-b.w5001-2888200354.7.K6IyVY&amp;orderType=&amp;viewType=grid&amp;keyword=%B6%FA%CA%CE&amp;lowPrice=&amp;highPrice=&amp;scene=taobao_shop" /> </map>
+</div>
+</body>
+</html>

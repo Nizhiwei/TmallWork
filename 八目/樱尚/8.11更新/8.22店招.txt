@@ -1,0 +1,35 @@
+<div style="padding:0;margin:0;width:990px;height:150px;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2ZJngeFXXXXaDXXXXXXXXXXXX_!!1579854849.jpg);">
+	<div style="padding:0;margin:0;width:990px;height:120px;">
+		 <a href="#" style="padding:0;margin:0;width:464px;height:120px;display:block;float:left;" target="_blank"></a> <a href="//detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3790379873.159.jR4Mfc&amp;id=22985216058&amp;rn=1c79e5313f7bc43aa9d12db3548e8001&amp;abbucket=14&amp;skuId=44131007604&amp;scene=taobao_shop" style="padding:0;margin:0;width:280px;height:120px;display:block;float:left;" target="_blank"></a> <a href="//detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3790379873.164.f33zuM&amp;id=18536914498&amp;rn=d995cd7aec4b0c0d2cf7c496d40c4dd8&amp;abbucket=14&amp;scene=taobao_shop" style="padding:0;margin:0;width:246px;height:120px;display:block;float:left;" target="_blank"></a>
+	</div>
+	<div style="padding:0;margin:0;width:990px;height:30px;">
+		<ul style="padding:0;margin:0;width:900px;height:30px;line-height:30px;font-size:0;list-style:none;">
+			<li style="float:left;padding-right:30px;">
+				 <a class="dingwei" style="padding:0;margin:0;width:70px;height:30px;display:block;" href="//inshe.tmall.com/?spm=0.0.0.0.Sc6uyH&amp;scene=taobao_shop" target="_blank">首页有惊喜</a>
+			</li>
+			<li style="float:left;padding-right:24px;">
+				 <a class="first" style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;cursor:pointer;width:90px;height:30px;display:block;" href="//inshe.tmall.com/search.htm?spm=a1z10.3-b.w4011-3790379873.1.qUmX7K&amp;scene=taobao_shop" target="_blank">所有产品▼</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a class="second" style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:90px;height:30px;display:block;" href="//detail.tmall.com/item.htm?spm=a1z10.1-b.w5001-6503785904.4.ruprE2&amp;id=18536914498&amp;rn=d995cd7aec4b0c0d2cf7c496d40c4dd8&amp;abbucket=14&amp;scene=taobao_shop" target="_blank">镇店之宝<img style="position:relative;right:-75px;top:0px;" src="//gdp.alicdn.com/imgextra/i3/1579854849/TB2mpj4cpXXXXXIXpXXXXXXXXXX_!!1579854849.gif" /></a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:99px;height:30px;display:block;" href="//detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3790379873.154.wcuTea&amp;id=22985216058&amp;rn=17edb639b9c8545305f4e85cc22cba4d&amp;abbucket=16&amp;skuId=44131007604&amp;scene=taobao_shop" target="_blank">热卖单品</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:99px;height:30px;display:block;" href="//inshe.tmall.com/search.htm?spm=a1z10.3-b.w4011-3790379873.84.QozyN4&amp;viewType=grid&amp;keyword=%CC%D7%D7%B0&amp;search=y&amp;orderType=defaultSort&amp;tsearch=y&amp;scene=taobao_shop" target="_blank">护肤套装</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:99px;height:30px;display:block;" href="//inshe.tmall.com/p/rd631487.htm?scene=taobao_shop" target="_blank">会员VIP</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:99px;height:30px;display:block;" href="//inshe.tmall.com/p/rd030205.htm?scene=taobao_shop" target="_blank">品牌故事</a>
+			</li>
+		</ul>
+	</div>
+	<div class="sn-simple-logo" style="border:none 0;padding:0;white-space:nowrap;color:#FFFFFF;left:880px;top:125px;height:20px;width:100px;z-index:2;">
+		<form action="//inshe.tmall.com/search.htm?scene=taobao_shop" method="post" target="_blank" style="padding:0px;margin:0px;">
+			 <input name="keyword" value=" 套装" style="float:left;color:#D48E7B;line-height:20px;font-size:12px;width:80px;height:20px;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2c3WacXXXXXbuXpXXXXXXXXXX_!!1579854849.jpg) no-repeat left top;border:none;" /> <input type="submit" value="搜索" style="float:left;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2TWqgcXXXXXXvXXXXXXXXXXXX_!!1579854849.jpg) no-repeat left top;width:20px;height:20px;cursor:pointer;border:none;text-indent:999px;overflow:hidden;" />&nbsp;
+		</form>
+	</div>
+</div>

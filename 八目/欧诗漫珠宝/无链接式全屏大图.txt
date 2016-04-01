@@ -1,0 +1,30 @@
+﻿
+<div style="height:px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;vertical-align: baseline;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;
+left:-960px;top:auto;vertical-align: baseline;">
+
+<img src="" style="float:left"/>
+
+<div style="margin:0px;padding:0px;border:none;width:1920px;height:px;background:url()"></div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+<!--/**  vertical-align: baseline; 恢复sn-simple-logo的一个属性 **/-->
+
+
+
+
+ shape="rect"  style="outline-width:0;outline-style:none;" target="_blank" 
+
+
+
+
+
+.tshop-pbsm-shop-self-defined {  position:static;}

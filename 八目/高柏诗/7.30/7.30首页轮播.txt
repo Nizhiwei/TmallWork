@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+
+<div style="height:465px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;">
+<div style="width:1920px;height:465px">
+<div class="J_TWidget" style="margin-left:465px;position: relative;width: 1100px;height:461px;" data-widget-type="Carousel" 
+data-widget-config="{'nextBtnCls':'next1','circular':true,'disableBtnCls':'disable','easing':'easeOutStrong','effect':'scrollx','viewSize':[1100],'lazyDataType':'img-src','steps':1,'prevBtnCls':'prev1','autoplay':true}"> 
+<span class="prev1 disable"><img src="//gdp.alicdn.com/imgextra/i2/1054693337/TB2sxUGbXXXXXbOXXXXXXXXXXXX_!!1054693337.png" alt=" 2"></span>
+<span class="next1"><img src="//gdp.alicdn.com/imgextra/i1/1054693337/TB2M63NbXXXXXagXXXXXXXXXXXX_!!1054693337.png" alt=" 右"></span> 
+
+<div class="gbscars12_5aa"> <div class="ks-switchable-content"> 
+<a style="width:1100px;height:461px;" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.233.dnNY9q&id=38886104898&rn=56579e2de6ac3dd0c2fe0be3807fc639&abbucket=14" target="_blank" ><img style="width:1100px;height:461px;"   src="https://img.alicdn.com/imgextra/i3/1054693337/TB2uOmteXXXXXc3XXXXXXXXXXXX_!!1054693337.jpg" alt=" 轮播1-1"></a>
+<a style="width:1100px;height:461px;" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.378.dnNY9q&id=44627695191&rn=56579e2de6ac3dd0c2fe0be3807fc639&abbucket=14" target="_blank" ><img style="width:1100px;height:461px;"  src="https://img.alicdn.com/imgextra/i1/1054693337/TB2uLCdeXXXXXb.XpXXXXXXXXXX_!!1054693337.jpg" alt=" 轮播3-1"></a>
+<a style="width:1100px;height:461px;" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.113.dnNY9q&id=42889281489&rn=56579e2de6ac3dd0c2fe0be3807fc639&abbucket=14" target="_blank" ><img style="width:1100px;height:461px;"  src="https://img.alicdn.com/imgextra/i4/1054693337/TB2Ky1geXXXXXbkXpXXXXXXXXXX_!!1054693337.jpg" alt=" 轮播3-2"></a>
+
+
+
+</div>
+</div><ul class="ks-switchable-nav" style="display:none"><li>1</li><li class="ks-active">2</li><li>3</li></ul>
+</div>
+
+</div>
+
+ </div></div> </div>
+</body>
+</html>
+.prev1{ 
+	position: absolute;
+	top:130px; 
+	left:-232px;
+	cursor: pointer;
+	z-index:99;
+	 }
+.next1{ 
+	position: absolute;
+	top:130px; 
+	right:-220px;
+	cursor: pointer;
+	z-index:99; 
+	}

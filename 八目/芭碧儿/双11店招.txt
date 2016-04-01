@@ -1,0 +1,20 @@
+<div style="height:150px;width:990px;background:url(https://img.alicdn.com/imgextra/i1/2171347552/TB2q75fgFXXXXc4XXXXXXXXXXXX_!!2171347552.jpg)">
+	<div style="height:83px;width:990px;">
+		<a href="#"><div style="height:110px;width:600px;float:left;">	
+		</div></a>
+		<a href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w10766640-10866600347.1.uJW0up&id=45697584166&abbucket=_AB-M32_B9&rn=fb698215a5ea5c7553e5a7a38a098ba1&acm=03054.1003.1.345859&aldid=OyedhPda&abtest=_AB-LR32-PV32_1845&scm=1003.1.03054.13_45697584166_345859&pos=2&skuId=92423715319" target="_blank"><div style="height:110px;width:190px;float:left;">
+			
+		</div></a>
+		<a href="#" target="_blank"><img src="https://img.alicdn.com/imgextra/i3/2171347552/TB2n_mqgFXXXXawXXXXXXXXXXXX_!!2171347552.gif"></a>
+	</div>
+	<div style="height:40px;width:990px;font-size:0">
+		<a href="https://babaria.tmall.com/search.htm?spm=a1z10.1-b.w10766640-10866600347.3.uJW0up&orderType=hotsell_desc" target="_blank" style="height:40px;width:112px;float:left;display:block;margin-left:184px">所有宝贝</a>
+		<a href="https://babaria.tmall.com/p/rd255630.htm?spm=a1z10.3-b.w10766640-10866600347.2.8HtdmX" target="_blank"    style="height:40px;width:109px;float:left;display:block">秋季特卖</a>
+		<a href="https://babaria.tmall.com/p/rd465639.htm?spm=a1z10.4-b.w10766640-10866600347.9.dMHoGZ&scene=taobao_shop" target="_blank" style="height:40px;width:105px;float:left;display:block">补水保湿</a>
+		<a href="https://babaria.tmall.com/p/rd281944.htm?spm=a1z10.4-b.w10766640-10866600347.6.H4tHHG&scene=taobao_shop" target="_blank" style="height:40px;width:107px;float:left;display:block">美白防晒</a>
+		<a href="https://babaria.tmall.com/p/rd480723.htm?spm=a1z10.4-b.w10766640-10866600347.5.odR4AD" target="_blank" style="height:40px;width:101px;float:left;display:block">福州抗炎</a>
+		<a href="https://babaria.tmall.com/p/rd687381.htm?spm=a1z10.4-b.w10766640-10866600347.7.yxJnZo&scene=taobao_shop" target="_blank" style="height:40px;width:117px;float:left;display:block">故事</a>
+		<a href="https://babaria.tmall.com/p/rd269469.htm?spm=a1z10.4-b.w10766640-10866600347.8.ORLAnU&scene=taobao_shop" target="_blank" style="height:40px;width:81px;float:left;display:block">只售</a>
+		
+	</div>
+</div>

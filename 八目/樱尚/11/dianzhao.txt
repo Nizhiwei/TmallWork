@@ -1,0 +1,34 @@
+<div style="width:990px;height:150px;background:url(https://img.alicdn.com/imgextra/i2/1579854849/TB2Y0gfgFXXXXb3XpXXXXXXXXXX_!!1579854849.jpg);float:left;">
+	<div style="width:990px;height:120px;">
+		 <div style="width:180px;height:120px;background:url(//gdp.alicdn.com/imgextra/i4/1579854849/TB2ptGEgFXXXXbZXpXXXXXXXXXX_!!1579854849.gif);float:right;">
+	 <a href="//inshe.tmall.com/?scene=taobao_shop" target="_blank" style="width:180px;height:120px;display:block;"></a>
+</div> <a href="//detail.tmall.com/item.htm?spm=a1z10.1-b.w7256503-5643262923.1.p1nL8w&amp;id=18536914498&amp;rn=ede707631188786dcb4af3a65b04335a&amp;abbucket=18&amp;scene=taobao_shop" target="_blank" style="width:280px;margin-right:60px;float:right;height:120px;"></a>
+	
+</div>
+    
+     
+    
+	<div style="padding:0;margin:0;width:990px;height:30px;">
+		<ul style="padding:0;margin:0;width:990px;height:30px;line-height:30px;font-size:0;list-style:none;">
+			<li style="float:left;padding-right:40px;">
+				 <a class="first dingwei" style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;cursor:pointer;width:90px;height:30px;display:block;" href="//inshe.tmall.com/search.htm?spm=a1z10.3-b.w4011-3790379873.1.qUmX7K&amp;scene=taobao_shop" target="_blank">所有产品▼</a>
+			</li>
+			<li style="float:left;padding-right:50px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:90px;height:30px;display:block;" href="//inshe.tmall.com/p/rd893764.htm?scene=taobao_shop" target="_blank">免单</a>
+			</li>
+			<li style="float:left;padding-right:80px;">
+				 <a style="padding:0;margin:0;width:100px;height:30px;display:block;" href="//inshe.tmall.com/?spm=a1z10.3-b.w5001-6503785904.9.mrqz0c&amp;scene=taobao_shop" target="_blank">双11</a>
+			</li>
+			<li style="float:left;padding-right:50px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:90px;height:30px;display:block;" href="//inshe.tmall.com/p/rd631487.htm?scene=taobao_shop" target="_blank">会员VIP</a>
+			</li>
+			<li style="float:left;padding-right:45px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:99px;height:30px;display:block;" href="//inshe.tmall.com/p/rd030205.htm?scene=taobao_shop" target="_blank">品牌故事</a>
+			</li>
+			<li style="float:left;padding-right:10px;">
+				 <a style="color:#FFF6F9;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;width:130px;height:30px;display:block;" href="//gopas.tmall.com/index.htm?spm=a1z10.3-b.w5001-3346017420.4.ymslHD&amp;scene=taobao_shop" target="_blank">gaoboshi</a>
+			</li>
+		</ul>
+	</div>
+</div>
+

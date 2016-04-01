@@ -1,0 +1,49 @@
+
+*{border:none;outline-style:none;outline-width:0;outline-color:transparent}
+.ni29txt1{list-style:none;margin:7px 0 0 8px;padding:0px;border:0;width: 150px;height: 37px;cursor: default;}
+.ni-act1{color:#DC596B;font-weight:700 }
+
+
+<div style="height:768px;">
+	<div class="sn-simple-logo" style="padding:0px;left:50%;top:-7px;">
+		<div class="sn-simple-logo" style="padding:0px;left:-960px;top:-40px;">
+			<div style="width:1920px;height:748px;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2DKXHeXXXXXcBXpXXXXXXXXXX_!!1579854849.jpg);">
+
+
+
+<div class="sn-simple-logo" style="width:840px;height:345px;left:540px;top:300px;">
+					
+
+
+<div  class="J_TWidget" style="position: relative; width: 990px;" data-widget-type="Tabs"  data-widget-config="{
+'activeTriggerCls':'ni-act1',
+            'effect': 'fade'}" >
+    <ul class="ks-switchable-nav  sn-simple-logo big1" style="position: absolute;top:2px;left:10px;border:none;z-index: 99; cursor: default;width:160px;height:360px;font-size:18px;font-family:宋体;">
+        <li class="ni-act1 ni29txt1">01 新人礼</li>
+        <li  class="ni29txt1">02 晋级礼</li>
+        <li class="ni29txt1">03 生日礼</li>
+        <li  class="ni29txt1">04 新品特惠</li>
+        <li  class="ni29txt1">05 活动专享</li>
+        <li class="ni29txt1">06 花朝节</li>
+        <li  class="ni29txt1">07 花粉兑换</li>
+    </ul>
+    <div class="ks-switchable-content" style="position:relative;height:345px;padding:0px;border:none;width:700px;left:160px;top:2px">
+        <div  style="background:url(//gdp.alicdn.com/imgextra/i4/1579854849/TB2p1JYeXXXXXctXXXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div  style="display: none;background:url(//gdp.alicdn.com/imgextra/i2/1579854849/TB2bBtZeXXXXXb7XXXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div  style="display: none;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2PotJeXXXXXarXpXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div  style="display: none;background:url(//gdp.alicdn.com/imgextra/i2/1579854849/TB2_.dUeXXXXXXRXpXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div  style="display: none;background:url(//gdp.alicdn.com/imgextra/i4/1579854849/TB262VKeXXXXXbBXpXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div  style="display: none;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2AJ0WeXXXXXc7XXXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+        <div style="display: none;background:url(//gdp.alicdn.com/imgextra/i2/1579854849/TB2XBdMeXXXXXbAXpXXXXXXXXXX_!!1579854849.jpg);width:700px;height:345px;"></div>
+    </div>
+</div>
+
+</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+

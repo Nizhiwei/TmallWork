@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <style>
+        .btn1:hover p{color:yellow}
+        .btn2-hover p{color:yellow}
+        .all-cats .link .title:hover{color: yellow;font-weight: bold;}
+        .popup-content .cats-tree .fst-cat .snd-pop .snd-cat-hd a:hover {color: yellow;}
+    </style>
+    <title></title>
+</head>
+<body>
+<div style=" height:150px; width:990px;">
+    <div style=" height:27px; width:990px; float:left;">
+        <div class="first" style=" height:27px; width:137px; float:left;"><a href="http://zhiwang.tmall.com/category.htm?spm=a1z10.4-b.w5001-9445293181.3.Vjx7v4&search=y&scene=taobao_shop&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img04.taobaocdn.com/imgextra/i4/2136150630/TB2bW4WcpXXXXcYXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_06"/></a></div>
+        <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.first',
+          'align':{
+                  'node':'.first',
+                  'offset':[0,0],
+                  'points':['bl','tl']
+                  }
+            }">
+            <div style="height: 30px; width:198px;">
+                <ul style="list-style: none">
+                    <li style="float: left"><a class="btn" style="height: 30px;width: 66px;background: #405e52;display: block;text-decoration: none;color:white" href="#"><img src="http://img01.taobaocdn.com/imgextra/i1/2136150630/TB2JB5_cpXXXXXqXXXXXXXXXXXX_!!2136150630.png"></a></li>
+                    <li style="float: left"><a class="btn1" style="height: 30px;width: 66px;background: #405e52;display: block;text-decoration: none;color:white" href="#"><p style="line-height: 30px;font-size: 16px;text-align: center">办公</p></a></li>
+                    <li style="float: left"><a class="btn2" style="height: 30px;width: 66px;background: #405e52;display: block;text-decoration: none;color:white" href="#"><p style="line-height: 30px;font-size: 16px;text-align: center">休闲</p></a></li>
+                </ul>
+            </div>
+        </div>
+        <div style=" height:27px; width:107px; float:left;"><a href="http://zhiwang.tmall.com/shop/view_shop.htm?spm=a1z10.3-b.w5001-9445293181.2.AhGrNU&scene=taobao_shop" target="_blank"><img src="http://img04.taobaocdn.com/imgextra/i4/2136150630/TB2YY8RcpXXXXbNXpXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_07"/></a></div>
+        <div style=" height:27px; width:118px; float:left;"><a href="http://zhiwang.tmall.com/category-971250511.htm?spm=a1z10.1-b.w5001-9445293181.4.oqQV1f&search=y&catName=%D0%C2%C6%B7%B4%D9%CF%FA&scene=taobao_shop#bd&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img02.taobaocdn.com/imgextra/i2/2136150630/TB2Bpx5cpXXXXXvXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_08"/></a></div>
+        <div class="second" style=" height:27px; width:141px; float:left;"><img src="http://img03.taobaocdn.com/imgextra/i3/2136150630/TB2wlJUcpXXXXcVXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_09"/></div>
+        <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.second',
+          'align':{
+                  'node':'.second',
+                  'offset':[0,0],
+                  'points':['bc','tc']
+                  }
+            }">
+            <div style="height: 30px; width:198px;">
+                <ul style="list-style: none">
+                    <li style="float: left"><a class="btn3" style="height: 30px;width: 66px;position:relative;background: #405e52;display: block;text-decoration: none;color:white" href="#"><div class="arrow1" style="width: 0;height: 0;overflow: hidden;zoom: 1;border: 4px solid transparent;border-top-color: white;position: absolute;left:28px"></div><div><p class="wen" style="line-height: 30px;font-size: 16px;text-align: center">家居</p><div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.wen',
+          'align':{
+                  'node':'.wen',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }"><p style="line-height: 30px;font-size: 16px;text-align: center; color:yellow">休闲</p></div></div></a></li>
+                    <li style="float: left"><a class="btn" style="height: 30px;width: 66px;background: url(http://img01.taobaocdn.com/imgextra/i1/2136150630/TB2JB5_cpXXXXXqXXXXXXXXXXXX_!!2136150630.png);display: block;text-decoration: none;color:white" href="#"><p style="line-height: 30px;font-size: 16px;text-align: center">办公</p></a></li>
+                    <li style="float: left"><a class="btn" style="height: 30px;width: 66px;background-image: url(http://img01.taobaocdn.com/imgextra/i1/2136150630/TB2JB5_cpXXXXXqXXXXXXXXXXXX_!!2136150630.png);display: block;text-decoration: none;color:white" href="#"><p style="line-height: 30px;font-size: 16px;text-align: center">休闲</p></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div style=" height:27px; width:116px; float:left;"><a href="http://zhiwang.tmall.com/p/rd357179.htm?spm=a1z10.1-b.w5001-9445293181.6.oqQV1f&scene=taobao_shop&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img02.taobaocdn.com/imgextra/i2/2136150630/TB2nV0WcpXXXXcUXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_10"/></a></div>
+        <div style=" height:27px; width:145px; float:left;"><a href="http://zhiwang.tmall.com/p/rd587347.htm?scene=taobao_shop?spm=a1z10.4-b.w5001-9445293181.7.pQt5ay&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img04.taobaocdn.com/imgextra/i4/2136150630/TB2tUx2cpXXXXaRXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_11"/></a></div>
+        <div style=" height:27px; width:117px; float:left;"><a href="http://zhiwang.tmall.com/p/rd227416.htm?scene=taobao_shop?spm=a1z10.4-b.w5001-9445293181.8.IL2FZN&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img02.taobaocdn.com/imgextra/i2/2136150630/TB2hMN0cpXXXXbgXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_12"/></a></div>
+        <div style=" height:27px; width:109px; float:left;"><a href="http://zhiwang.tmall.com/p/rd646422.htm?spm=a1z10.5-b.w5001-9445293181.5.LySmgn&scene=taobao_shop&_tb_token_=CBO1Psby753y" target="_blank"><img src="http://img01.taobaocdn.com/imgextra/i1/2136150630/TB2h0J0cpXXXXbkXXXXXXXXXXXX_!!2136150630.jpg" alt=" 1_02_13"/></a></div>
+    </div>
+</div>
+</body>
+</html>

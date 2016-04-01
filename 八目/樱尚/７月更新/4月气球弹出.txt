@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        *{padding: 0;margin: 0}
+    </style>
+</head>
+<body>
+<!--ÆøÇòµ¯³ö-->
+<div style="height:1594px;">
+    <div class="sn-simple-logo" style="padding:0;left:50%;top:auto;">
+        <div class="sn-simple-logo" style="padding:0;left:-960px;top:auto;">
+<div style="width: 1920px;height: 1594px;background: url(http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2cyoLcpXXXXbtXXXXXXXXXXXX_!!1579854849.jpg)">
+    <div class="sn-simple-logo" style="width: 1455px;height:378px;">
+        <a class="sn-simple-logo gu" href="#" style="left: 513px;top: 79px;display: block;width: 136px;height:139px;"></a>
+        <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.gu',
+          'align':{
+                  'node':'.gu',
+                  'offset':[0,0],
+                  'points':['bc','tc']
+                  }
+            }">
+        <p style="font-size: 24px;font-weight: 700;color: #f73b70">¹ÄÀËÓì Go</p>
+        </div>
+        <a class="sn-simple-logo jiu" href="#" style="left: 1199px;top: 31px;display: block;width: 136px;height:129px;"></a>
+        <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.jiu',
+          'align':{
+                  'node':'.jiu',
+                  'offset':[0,0],
+                  'points':['bc','tc']
+                  }
+            }">
+            <p style="font-size: 24px;font-weight: 700;color: #f73b70">¾ÅÕ¯¹µ Go</p>
+        </div>
+        <a class="sn-simple-logo xi" href="#" style="left: 1311px;top: 229px;display: block;width: 145px;height:161px;"></a>
+        <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.xi',
+          'align':{
+                  'node':'.xi',
+                  'offset':[0,0],
+                  'points':['bc','tc']
+                  }
+            }">
+            <p style="font-size: 24px;font-weight: 700;color: #f73b70">Î÷ºþ Go</p>
+        </div>
+    </div>
+
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+<!--ÀñÎï-->
+<div style="height:495px;">
+    <div class="sn-simple-logo" style="padding:0;left:50%;top:-30px;">
+        <div class="sn-simple-logo" style="padding:0;left:-960px;top:auto;">
+<div class="sn-simple-logo" style="background: url(http://img03.taobaocdn.com/imgextra/i3/1579854849/TB2EPUOcpXXXXaUXXXXXXXXXXXX_!!1579854849.jpg);width: 1920px;height: 495px;">
+    <div class="sn-simple-logo b1"  style="left:465px;top:0;height: 200px;width: 320px;"></div>
+    <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.b1',
+          'align':{
+                  'node':'.b1',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }">
+        <div  style="height: 200px;width: 320px;background: url(http://img04.taobaocdn.com/imgextra/i4/1579854849/TB2wckMcpXXXXb2XXXXXXXXXXXX_!!1579854849.jpg)"></div>
+    </div>
+
+    <div class="sn-simple-logo b2"  style="left:800px;top:0;height: 200px;width: 320px;"></div>
+    <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.b2',
+          'align':{
+                  'node':'.b2',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }">
+        <div  style="height: 200px;width: 320px;background: url(http://img02.taobaocdn.com/imgextra/i2/1579854849/TB2H5sIcpXXXXaMXpXXXXXXXXXX_!!1579854849.jpg)"></div>
+    </div>
+
+    <div class="sn-simple-logo b3"  style="left:1135px;top:0;height: 200px;width: 320px;"></div>
+    <div class="J_TWidget hidden" data-widget-type="Popup" data-widget-config="{
+          'trigger':'.b3',
+          'align':{
+                  'node':'.b3',
+                  'offset':[0,0],
+                  'points':['cc','cc']
+                  }
+            }">
+        <div  style="height: 200px;width: 320px;background: url(http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2E7oPcpXXXXaxXXXXXXXXXXXX_!!1579854849.jpg)"></div>
+    </div>
+
+
+</div>
+
+
+
+
+
+        </div>
+    </div>
+</div>
+
+
+<!--µØµã1-->
+<div style="height:3411px;">
+    <div class="sn-simple-logo" style="padding:0;left:50%;top:-40px;">
+        <div class="sn-simple-logo" style="padding:0;left:-960px;top:auto;">
+            <div class="sn-simple-logo" style="width: 1920px;height: 3411px;">
+                <img src="http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2zZ.NcpXXXXbCXXXXXXXXXXXX_!!1579854849.jpg" usemap="#Map" border="0"/>
+                <map name="Map" id="Map">
+                    <area shape="rect" coords="922,44,1396,345" href="http://detail.tmall.com/item.htm?id=22986024099" />
+                </map>
+                <img src="http://img03.taobaocdn.com/imgextra/i3/1579854849/TB2I6EQcpXXXXXNXXXXXXXXXXXX_!!1579854849.jpg" usemap="#Map2" border="0"/>
+                <map name="Map2" id="Map2">
+                    <area shape="rect" coords="896,5,1467,278" href="http://detail.tmall.com/item.htm?id=17404854949" />
+                </map>
+                <img src="http://img02.taobaocdn.com/imgextra/i2/1579854849/TB2mQ3JcpXXXXXJXpXXXXXXXXXX_!!1579854849.jpg" usemap="#Map3" border="0"/>
+                <map name="Map3" id="Map3">
+                    <area shape="rect" coords="1150,131,1453,633" href="#" />
+                    <area shape="rect" coords="462,7,984,310" href="http://detail.tmall.com/item.htm?id=40266065304 " />
+                    <area shape="rect" coords="466,322,1035,613" href="http://malldetail.taobao.com/meal_detail.htm?spm=0.0.0.0.Ewtnl0&amp;meal_id=162758040&amp;seller_id=1579854849&amp;force=true" />
+                </map>
+                <img src="http://img01.taobaocdn.com/imgextra/i1/1579854849/TB2pnUJcpXXXXXTXpXXXXXXXXXX_!!1579854849.jpg" usemap="#Map4" border="0"/>
+                <map name="Map4" id="Map4">
+                    <area shape="rect" coords="842,108,1416,407" href="http://malldetail.taobao.com/meal_detail.htm?spm=0.0.0.0.Ewtnl0&amp;meal_id=162748052&amp;seller_id=1579854849&amp;force=true" />
+                    <area shape="rect" coords="474,15,789,526" href="http://detail.tmall.com/item.htm?id=36264043982" />
+                </map>
+                <img src="http://img03.taobaocdn.com/imgextra/i3/1579854849/TB2k4oIcpXXXXbpXpXXXXXXXXXX_!!1579854849.jpg" usemap="#Map5" border="0"/>
+                <map name="Map5" id="Map5">
+                    <area shape="rect" coords="1066,14,1428,550" href="http://detail.tmall.com/item.htm?id=19155659481" />
+                    <area shape="rect" coords="500,151,1052,434" href="http://malldetail.taobao.com/meal_detail.htm?spm=0.0.0.0.Ewtnl0&amp;meal_id=162822047&amp;seller_id=1579854849&amp;force=true" />
+                </map>
+                <img src="http://img03.taobaocdn.com/imgextra/i3/1579854849/TB23acJcpXXXXaAXpXXXXXXXXXX_!!1579854849.jpg" usemap="#Map6" border="0"/>
+                <map name="Map6" id="Map6">
+                    <area shape="rect" coords="501,1,876,547" href="http://detail.tmall.com/item.htm?id=17415373978" />
+                    <area shape="rect" coords="892,137,1443,417" href="http://malldetail.taobao.com/meal_detail.htm?spm=0.0.0.0.Ewtnl0&amp;meal_id=162880032&amp;seller_id=1579854849&amp;force=true" />
+                </map>
+                <img src="http://img03.taobaocdn.com/imgextra/i3/1579854849/TB2L07JcpXXXXamXpXXXXXXXXXX_!!1579854849.jpg" usemap="#Map7" border="0"/>
+                <map name="Map7" id="Map7">
+                    <area shape="rect" coords="1116,-6,1486,546" href="http://detail.tmall.com/item.htm?id=20580171804" />
+                    <area shape="rect" coords="510,130,1059,412" href="http://malldetail.taobao.com/meal_detail.htm?spm=0.0.0.0.Ewtnl0&amp;meal_id=162668047&amp;seller_id=1579854849&amp;force=true" />
+                </map>
+            </div>
+
+
+
+
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

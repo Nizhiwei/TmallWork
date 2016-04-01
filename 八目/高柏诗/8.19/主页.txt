@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<div style="height:7214px;">
+	<div class="sn-simple-logo" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo" style="padding:0px;left:-960px;top:auto;">
+			<div style="height:7214px;width:1920px;">
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2rJp1eFXXXXbIXXXXXXXXXXXX_!!1054693337.jpg" alt="2" border="0" />
+			  <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2NQtReFXXXXXOXpXXXXXXXXXX_!!1054693337.jpg" alt="3" border="0" />
+			  <img src="https://img.alicdn.com/imgextra/i2/1054693337/TB21pd4eFXXXXa9XXXXXXXXXXXX_!!1054693337.jpg" alt="4" border="0" />
+              <img src="https://img.alicdn.com/imgextra/i1/1054693337/TB2LkR8eFXXXXaXXXXXXXXXXXXX_!!1054693337.jpg" alt="5" border="0" />
+              <img src="https://img.alicdn.com/imgextra/i4/1054693337/TB2HzRQeFXXXXXKXpXXXXXXXXXX_!!1054693337.jpg" alt="6" usemap="#Map" border="0" />
+              <map name="Map">
+                <area shape="rect" coords="529,7,940,454" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-11787675830.1.aoysLD&id=42889281489&rn=cdb6d854ee7b664240c044b18b2bd07c&abbucket=9&scene=taobao_shop" target="_blank">
+                <area shape="rect" target="_blank" coords="983,10,1387,458" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-11787675830.2.aoysLD&id=20368020745&rn=cdb6d854ee7b664240c044b18b2bd07c&abbucket=9&scene=taobao_shop">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2b24_eFXXXXXIXXXXXXXXXXXX_!!1054693337.jpg" alt="7" border="0" />
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2AbdZeFXXXXcdXXXXXXXXXXXX_!!1054693337.jpg" alt="8" usemap="#Map10" border="0" />
+              <map name="Map10">
+                <area shape="rect" coords="649,19,812,214" href="http://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=1054693337&amp;activityId=f34b4ed5f2104b07888282e85d2376b1&amp;scene=taobao_shop" target="_blank">
+                <area shape="rect" coords="875,17,1043,213" href="http://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=1054693337&amp;activityId=92e56c7d0be44954b4def11d4bd25198&amp;scene=taobao_shop" target="_blank">
+                <area shape="rect" coords="1107,18,1270,214" href="http://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=1054693337&amp;activityId=75658eda9b514d4f8664e206eff5ad27&amp;scene=taobao_shop" target="_blank">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2Wbh9eFXXXXX5XXXXXXXXXXXX_!!1054693337.jpg" alt="9" border="0" />
+              <img src="https://img.alicdn.com/imgextra/i2/1054693337/TB2aCtEeFXXXXcHXpXXXXXXXXXX_!!1054693337.jpg" alt="10" usemap="#Map2" border="0" />
+              <map name="Map2">
+                <area shape="rect" target="_blank" coords="517,208,800,655" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-11787675830.6.aoysLD&id=17525663300&rn=cdb6d854ee7b664240c044b18b2bd07c&abbucket=9&scene=taobao_shop">
+                <area shape="rect" target="_blank" coords="821,208,1100,655" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.275.aHDfM1&id=20369264206&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="1126,210,1407,656" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.145.aHDfM1&id=20800848828&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14&skuId=39620605956">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i4/1054693337/TB2JN45eFXXXXa1XXXXXXXXXXXX_!!1054693337.jpg" alt="11" usemap="#Map3" border="0" />
+              <map name="Map3">
+                <area shape="rect" target="_blank" coords="519,55,800,500" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.330.aHDfM1&id=38926213193&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="823,54,1100,499" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.245.aHDfM1&id=38886104898&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="1124,51,1405,500" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.220.aHDfM1&id=16136994064&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2PH0HeFXXXXcxXpXXXXXXXXXX_!!1054693337.jpg" alt="12" usemap="#Map4" border="0" />
+              <map name="Map4">
+                <area shape="rect" target="_blank" coords="493,144,766,579" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.285.aHDfM1&id=17534523501&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="826,143,1096,585" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.225.aHDfM1&id=20348184634&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="1151,143,1423,585" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.190.aHDfM1&id=16139745980&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i1/1054693337/TB2st01eFXXXXbOXXXXXXXXXXXX_!!1054693337.jpg" alt="13" usemap="#Map5" border="0" />
+              <map name="Map5">
+                <area shape="rect" target="_blank" coords="543,54,873,428" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.110.aHDfM1&id=44627395521&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="994,64,1394,425" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.205.aHDfM1&id=45067034659&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i4/1054693337/TB28t4ReFXXXXXTXpXXXXXXXXXX_!!1054693337.jpg" alt="14" usemap="#Map6" border="0" />
+              <map name="Map6">
+                <area shape="rect" target="_blank" coords="494,56,766,487" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.160.aHDfM1&id=38874805786&rn=22a6db0b6cd7fb3de00e9186de3f9770&abbucket=14">
+                <area shape="rect" target="_blank" coords="833,57,1102,479" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.210.RRR0Yy&id=16187081515&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+                <area shape="rect" target="_blank" coords="1157,63,1418,482" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.180.RRR0Yy&id=20344520245&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i1/1054693337/TB2iNtVeFXXXXcVXXXXXXXXXXXX_!!1054693337.jpg" alt="15" usemap="#Map7" border="0" />
+              <map name="Map7">
+                <area shape="rect" target="_blank" coords="538,202,929,621" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.365.RRR0Yy&id=520502376291&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+                <area shape="rect" target="_blank" coords="997,202,1355,608" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.380.RRR0Yy&id=520509242889&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i2/1054693337/TB2M7XTeFXXXXXnXpXXXXXXXXXX_!!1054693337.jpg" alt="16" usemap="#Map8" border="0" />
+              <map name="Map8">
+                <area shape="rect" target="_blank" coords="540,88,925,471" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.375.RRR0Yy&id=520439803073&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+                <area shape="rect" target="_blank" coords="983,88,1373,474" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.385.RRR0Yy&id=520518236362&rn=837902dd30ae32bc820ecc73a4362528&abbucket=14">
+              </map>
+              <img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2YqhMeFXXXXa9XpXXXXXXXXXX_!!1054693337.jpg" alt="17" usemap="#Map9" border="0" />
+              <map name="Map9">
+                <area shape="rect" coords="846,239,1075,272" href="#">
+              </map>
+
+</body>
+</html>

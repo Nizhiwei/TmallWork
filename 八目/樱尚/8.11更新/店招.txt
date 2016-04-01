@@ -1,0 +1,38 @@
+<div style="z-index:99999;padding:0;margin:0;width:990px;height:147px;">
+	<div style="padding:0;margin:0;width:990px;height:117px;background:url(https://img.alicdn.com/imgextra/i1/1579854849/TB2dLyMepXXXXcDXXXXXXXXXXXX_!!1579854849.jpg);">
+<a href="//detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-3868802624.90.1GWEln&amp;id=18536914498&amp;rn=723f9d59ff5a9515a442c28b320ee697&amp;abbucket=19&amp;scene=taobao_shop" style="padding:0;margin:0;width:300px;height:117px;display:block;float:right;" target="_blank"></a> 
+	</div>
+	<div style="z-index:99999;padding:0;margin:0;width:990px;height:30px;background:url(https://img.alicdn.com/imgextra/i4/1579854849/TB21BmMepXXXXcgXXXXXXXXXXXX_!!1579854849.jpg);">
+		<ul style="padding:0;margin:0;width:900px;height:30px;line-height:30px;font-size:15px;list-style:none;z-index:99999;">
+			<li style="float:left;padding-right:30px;">
+				 <a class="dingwei" style="color:#c11269;text-decoration:none;padding:0;margin:0;font-weight:500;font-family:微软雅黑;" href="//inshe.tmall.com/?spm=0.0.0.0.Sc6uyH&amp;scene=taobao_shop" target="_blank">首页有惊喜</a>
+			</li>
+			<li style="float:left;padding-right:24px;">
+				 <a class="first" style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;cursor:pointer;" href="//inshe.tmall.com/search.htm?spm=a1z10.3-b.w4011-3790379873.1.qUmX7K&amp;scene=taobao_shop" target="_blank">所有产品▼</a>
+			</li>
+			<li style="float:left;padding-right:24px;">
+				 <a class="second" style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="//detail.tmall.com/item.htm?spm=a220o.1000855.1998025129.4.AurhSe&amp;id=22985216058&amp;abbucket=_AB-M32_B5&amp;acm=03054.1003.1.291757&amp;aldid=4NCZ5f6B&amp;abtest=_AB-LR32-PR32&amp;scm=1003.1.03054.13_22985216058_291757&amp;pos=4&amp;skuId=44131007604&amp;scene=taobao_shop" target="_blank">镇店之宝</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="//detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-11218811172.2.wb2ABb&amp;id=22985216058&amp;skuId=44131007604&amp;scene=taobao_shop" target="_blank">超值眼霜</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="//inshe.tmall.com/p/rd336377.htm?scene=taobao_shop" target="_blank">夏日专场</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="//inshe.tmall.com/category-678501538.htm?spm=a220o.1000855.w5003-3871053091.1.kcwkT4&amp;search=y&amp;mid=w-3868802624-0&amp;scene=taobao_shop#TmshopSrchNav" target="_blank">超值套装</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#fffaaa;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="http://inshe.tmall.com/p/rd631487.htm" target="_blank">会员VIP</a>
+			</li>
+			<li style="float:left;padding-right:30px;">
+				 <a style="color:#c11269;text-decoration:none;font-weight:500;font-family:微软雅黑;padding:0;margin:0;" href="//inshe.tmall.com/p/rd030205.htm?scene=taobao_shop" target="_blank">品牌故事</a>
+			</li>
+		</ul>
+	</div>
+	<div class="sn-simple-logo" style="border:none 0;padding:0;white-space:nowrap;color:#FFFFFF;left:880px;top:122px;height:20px;width:100px;z-index:2;">
+		<form action="//inshe.tmall.com/search.htm?scene=taobao_shop" method="post" target="_blank" style="padding:0px;margin:0px;">
+			 <input name="keyword" value=" 防晒霜" style="float:left;color:#D48E7B;line-height:20px;font-size:12px;width:80px;height:20px;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2c3WacXXXXXbuXpXXXXXXXXXX_!!1579854849.jpg) no-repeat left top;border:none;" /> <input type="submit" value="搜索" style="float:left;background:url(//gdp.alicdn.com/imgextra/i1/1579854849/TB2TWqgcXXXXXXvXXXXXXXXXXXX_!!1579854849.jpg) no-repeat left top;width:20px;height:20px;cursor:pointer;border:none;text-indent:999px;overflow:hidden;" />&nbsp;
+		</form>
+	</div>
+</div>

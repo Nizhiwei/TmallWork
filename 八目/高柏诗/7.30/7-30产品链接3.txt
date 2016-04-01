@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<div style="height:4220px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;vertical-align: baseline;">
+
+
+
+<img src="https://img.alicdn.com/imgextra/i4/1054693337/TB290KzeXXXXXXQXXXXXXXXXXXX_!!1054693337.jpg" usemap="#Map" style="margin:0px;padding:0px:border:none;width:1920px;height:1132px;" border="0">
+<map name="Map" id="Map">
+  <area shape="rect" coords="458,181,776,544" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-9662561010.69.IKTXwr&amp;id=16187081515&amp;rn=e4ccc2b2c697ce3d448b7b810349b764&amp;abbucket=2&amp;scene=taobao_shop" target="_blank" />
+  <area shape="rect" coords="464,581,785,1010" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w4004-9922540915.10.IKTXwr&amp;id=38874805786&amp;abbucket=_AB-M73_B0&amp;acm=03068.1003.1.53413&amp;aldid=II4virrN&amp;abtest=_AB-LR73-PR73&amp;scm=1003.1.03068.ITEM_38874805786_53413&amp;pos=5" target="_blank" />
+  <area shape="rect" coords="803,387,1133,736" href="https://detail.tmall.com/item.htm?spm=a1z10.1-b.w5003-9662561010.70.IKTXwr&amp;id=16136994064&amp;rn=4cbd984e5cd6e0e93a40e95dbfe5c7a0&amp;abbucket=2&amp;scene=taobao_shop" target="_blank" />
+</map>
+<img src="https://img.alicdn.com/imgextra/i3/1054693337/TB2Bnd3eXXXXXbUXpXXXXXXXXXX_!!1054693337.jpg" usemap="#Map2" style="margin:0px;padding:0px:border:none;width:1920px;height:976px;" border="0">
+<map name="Map2" id="Map2">
+  <area shape="rect" coords="479,573,777,956" href="https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-3268500929.110.Z9mZpb&amp;id=40678898210&amp;rn=b6156ef959ceb2cc567793285c0d5a46&amp;abbucket=14" target="_blank" />
+  <area shape="rect" coords="808,575,1102,956" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.213.eKdLSr&amp;id=44665880777&amp;rn=f8152439684ff14f77f143d44a1ee379&amp;abbucket=14" target="_blank" />
+  <area shape="rect" coords="1140,573,1439,959" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.398.eKdLSr&amp;id=20455344539&amp;rn=f8152439684ff14f77f143d44a1ee379&amp;abbucket=14" target="_blank" />
+</map>
+<img src="https://img.alicdn.com/imgextra/i3/1054693337/TB252qXeXXXXXXnXpXXXXXXXXXX_!!1054693337.jpg" usemap="#Map3" style="margin:0px;padding:0px:border:none;width:1920px;height:1108px;" border="0">
+<map name="Map3" id="Map3">
+  <area shape="rect" coords="1135,191,1453,621" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.348.OAiFfP&amp;id=44607898369&amp;rn=d221b45df7b8d0f7002f70a32cf0ecaf&amp;abbucket=14&amp;skuId=81748906452" target="_blank" />
+  <area shape="rect" coords="1135,634,1456,1065" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.393.OAiFfP&amp;id=44607682713&amp;rn=d221b45df7b8d0f7002f70a32cf0ecaf&amp;abbucket=14&amp;skuId=81748310639" target="_blank" />
+  <area shape="rect" coords="821,714,1092,1089" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-3268482991.298.OAiFfP&amp;id=20800792488&amp;rn=d221b45df7b8d0f7002f70a32cf0ecaf&amp;abbucket=14&amp;skuId=44806515993" target="_blank" />
+</map>
+<img style="margin:0px;padding:0px:border:none;width:1920px;height:858px;" src="https://img.alicdn.com/imgextra/i1/1054693337/TB2loKjeXXXXXbmXXXXXXXXXXXX_!!1054693337.jpg">
+<img src="https://img.alicdn.com/imgextra/i4/1054693337/TB27yOieXXXXXbWXXXXXXXXXXXX_!!1054693337.jpg" usemap="#Map4" style="margin:0px;padding:0px:border:none;width:1920px;height:109px;" border="0">
+<map name="Map4" id="Map4">
+  <area shape="rect" coords="788,8,1130,102" href="https://gopas.tmall.com/shop/view_shop.htm?spm=a1z0e.6651725.0.0.3ycXu3&amp;mytmenu=mdianpu&amp;utkn=g%2Cxdp3bwgkvpdozpncwxva1438241553960&amp;user_number_id=1054693337&amp;scm=1028.1.1.20001" target="_blank" />
+</map>
+
+      </div>
+</div>
+</div>
+
+
+
+
+</body>
+</html>

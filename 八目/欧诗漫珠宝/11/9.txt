@@ -1,0 +1,28 @@
+<div style="height:2462px;">
+	<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:50%;top:auto;vertical-align: baseline;">
+		<div class="sn-simple-logo footer-more-trigger" style="padding:0px;left:-960px;top:auto;vertical-align: baseline;">
+
+<img src="https://img.alicdn.com/imgextra/i2/931623700/TB2MBNzgFXXXXXDXpXXXXXXXXXX_!!931623700.jpg" usemap="#Map12" style="float:left"/>
+<map name="Map12">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="555,39,840,154" href="https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=931623700&activityId=de49021573414c8fa2c648e3a9887e89">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="846,40,1097,153" href="https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=931623700&activityId=bf05752045924a6ba1502bc5578259d3">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="1107,42,1412,152" href="https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=931623700&activityId=747cd5c77a93421f984a65d252e20cae">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="417,286,947,834" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.84.teXkcG&id=41209368392&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&sku_properties=150778146:171110785;150988152:98215">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="990,296,1499,823" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.72.teXkcG&id=41154739263&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&sku_properties=150778146:525226100;150988152:98215">
+</map>
+<img src="https://img.alicdn.com/imgextra/i3/931623700/TB20LdVgFXXXXXBXXXXXXXXXXXX_!!931623700.jpg" usemap="#Map13" style="float:left"/>
+<map name="Map13">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="423,35,952,584" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.78.teXkcG&id=41154947682&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&sku_properties=150778146:18089594;150988152:98215">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="988,31,1512,591" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.69.teXkcG&id=41210428288&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&skuId=87760882158">
+</map>
+<img src="https://img.alicdn.com/imgextra/i2/931623700/TB2a.NFgFXXXXcjXXXXXXXXXXXX_!!931623700.jpg" usemap="#Map14" style="float:left"/>
+<map name="Map14">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="427,27,954,575" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.81.teXkcG&id=41155659586&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&skuId=92837427214">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="988,12,1520,576" href="https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-2888182809.75.teXkcG&id=41211032320&rn=d7bb2570d62f21614894a8aaf2283377&abbucket=8&skuId=87973233055">
+  <area   shape="rect"   style="outline-width:0;outline-style:none;" target="_blank"    coords="857,778,1143,840" href="#">
+</map>
+
+
+</div>
+</div>
+</div>
